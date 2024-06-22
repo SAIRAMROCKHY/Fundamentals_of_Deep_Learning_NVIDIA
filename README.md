@@ -54,9 +54,3 @@ By participating in this workshop, you’ll:
 - Jupyter Notebook
 - TensorFlow 2.x or PyTorch
 - NVIDIA GPU (optional, recommended for performance)
-
-## Setup Instructions
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/SAIRAMROCKHY/Fundamentals-of-Accelerated-Computing-with-CUDA-Python-NVIDIA.git
-   cd Fundamentals-of-Accelerated-Computing-with-CUDA-Python-NVIDIA
